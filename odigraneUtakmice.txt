@@ -1,0 +1,2 @@
+Utakmica [imeTima1=Partizan, imeTima2=Celzi, rezultat=prvi pobedio]
+Utakmica [imeTima1=OFKKikinda, imeTima2=Inter, rezultat=nije odigrano]
