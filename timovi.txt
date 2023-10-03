@@ -1,0 +1,7 @@
+Partizan;Beograd;10;
+OFKKIkinda;Kikinda;10;
+Inter;MIlano;12;
+Celzi;London;11;
+Real;Madrid;10;
+Juventus;Torino;11;
+Arsenal;London;12;
